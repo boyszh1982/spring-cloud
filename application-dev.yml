@@ -2,4 +2,4 @@ server:
   port: 8080
 
 logging:
-  config: https://github.com/boyszh1982/spring-cloud/blob/master/log4j2.yml
+  config: http://localhost:7001/nameless/dev/master/log4j2.yml
