@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 8001
 
 logging:
   config: http://localhost:7001/nameless/dev/master/log4j2.yml
