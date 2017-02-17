@@ -1,6 +1,6 @@
 spring:
   application:
-    name:nameless
+    name:nameless-cloud-config-server
   cloud:
     config:
-      uri:http://localhost:8888
+      uri:http://localhost:7001
