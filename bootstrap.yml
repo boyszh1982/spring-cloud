@@ -1,6 +1,0 @@
-spring:
-  application:
-    name:nameless-cloud-config-server
-  cloud:
-    config:
-      uri:http://localhost:7001
