@@ -1,0 +1,5 @@
+server:
+  port:8080
+
+logging:
+  config:http://localhost:7001/ConfigExtClient/dev/master/log4j2.yml
