@@ -1,1 +1,4 @@
-message: hello
+server:
+  port: 8080
+server:
+  context-path: /configclient
