@@ -1,5 +1,5 @@
 server:
-  port: ${serverPort} 
+  port: ${server.port:8080} 
 management:
   security:
     enabled: false 
